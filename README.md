@@ -140,9 +140,8 @@ timestamp,zone,sol_hum,sol_temp,sol_ph,sol_ec,air_temp,air_hum,air_co2,air_vent,
 
 ## 📸 Screenshots
 
-> *(Add screenshots of the dashboard, zone map, and alert pages here)*
+<img width="1914" height="1016" alt="image" src="https://github.com/user-attachments/assets/934463a4-3966-486a-aa06-35700da289ba" />
 
----
 
 ## 🔧 Arduino Integration
 
